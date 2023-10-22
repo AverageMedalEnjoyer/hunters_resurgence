@@ -1,3 +1,1 @@
 # hunters_resurgence
-
-# test
