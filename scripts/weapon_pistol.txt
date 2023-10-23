@@ -17,16 +17,6 @@ WeaponData
 	"weight"			"2"
 	"item_flags"			"0"
 	"damage"			"8"
-
-        ExpOffset
-        {
-        "x"   "-13"
-        "y"   "-5.5"
-        "z"   "4.1"
-     // "xori"   "-2.9" //Does not work
-     // "yori"   "1.1" //Does not work
-     // "zori"   "2.0" // Does not work
-        }
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
