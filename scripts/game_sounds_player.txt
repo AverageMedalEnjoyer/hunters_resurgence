@@ -13,7 +13,7 @@
 	"volume"	"0.9"
 	"soundlevel"  "SNDLVL_60dB"
 
-	"wave"	"player/melee_chargeup.wav"
+	"wave"	"player/suit_sprint.wav"
 }
 
 "HL2Player.FlashLightOn"
