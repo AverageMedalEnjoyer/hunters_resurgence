@@ -15,11 +15,11 @@ Scheme
 	Colors
 	{
 		// base colors
-		"Orange"			"255 176 0 255"
-		"OrangeDim"			"255 176 0 120"
-		"LightOrange"		"188 112 0 128"
+		"Orange"			"204 55 57 255"
+		"OrangeDim"			"148 58 60 120"
+		"LightOrange"		"247 98 100 128"
 		
-		"Red"				"192 28 0 140"
+		"Red"				"180 11 14 140"
 		"Black"				"0 0 0 196"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
@@ -36,31 +36,31 @@ Scheme
 	// controls use these to determine their settings
 	BaseSettings
 	{
-		"FgColor"			"255 220 0 100"
+		"FgColor"			"204 55 57 100"
 		"BgColor"			"0 0 0 76"
 
-		"Panel.FgColor"			"255 220 0 100"
+		"Panel.FgColor"			"204 55 57 100"
 		"Panel.BgColor"			"0 0 0 76"
 		
-		"BrightFg"		"255 220 0 255"
+		"BrightFg"		"204 55 57 255"
 
-		"DamagedBg"			"180 0 0 200"
-		"DamagedFg"			"180 0 0 230"
-		"BrightDamagedFg"		"255 0 0 255"
+		"DamagedBg"			"120 47 49 200"
+		"DamagedFg"			"120 47 49 230"
+		"BrightDamagedFg"		"168 25 27 255"
 
 		// weapon selection colors
-		"SelectionNumberFg"		"255 220 0 255"
-		"SelectionTextFg"		"255 220 0 255"
+		"SelectionNumberFg"		"204 55 57 255"
+		"SelectionTextFg"		"204 55 57 255"
 		"SelectionEmptyBoxBg" 	"0 0 0 80"
 		"SelectionBoxBg" 		"0 0 0 80"
 		"SelectionSelectedBoxBg" "0 0 0 80"
 		
-		"ZoomReticleColor"	"255 220 0 255"
+		"ZoomReticleColor"	"204 55 57 255"
 
 		// HL1-style HUD colors
-		"Yellowish"			"255 160 0 255"
-		"Normal"			"255 208 64 255"
-		"Caution"			"255 48 0 255"
+		"Yellowish"			"148 58 60 255"
+		"Normal"			"204 55 57 255"
+		"Caution"			"120 47 49 255"
 
 		// Top-left corner of the "Half-Life 2" on the main screen
 		"Main.Title1.X"		"76"

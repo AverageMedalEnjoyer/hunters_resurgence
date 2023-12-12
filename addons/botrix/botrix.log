@@ -1,0 +1,276 @@
+[Botrix] File log level: info.
+[Botrix] File "D:\Steam\steamapps\sourcemods\hunters_resurgence\addons\botrix\config.ini":
+[Botrix]   There is no mod that matches current game (source sdk base 2013 multiplayer) & mod (hunters_resurgence) folders.
+[Botrix]   Using default mod 'HalfLife2Deathmatch'.
+[Botrix] Botrix loaded. Current mod: HalfLife2Deathmatch.
+[Botrix] Waypoints visibility table loaded.
+[Botrix] 363 waypoints loaded for map dm_runoff.
+[Botrix] Warning: entity prop_door_rotating 1 (10739 1673 -202) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 324.
+[Botrix] Warning: entity func_door 2 (9666 1724 -192) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 282.
+[Botrix] Door 3 doesn't have 2 waypoints near.
+[Botrix] Warning: entity func_door 5 (11056 2003 -126) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 329.
+[Botrix] Warning: entity func_door 6 (11056 2033 -126) doesn't have waypoint close.
+[Botrix] Warning: entity func_door 7 (10912 2033 -126) doesn't have waypoint close.
+[Botrix] Door 7 doesn't have 2 waypoints near.
+[Botrix] Warning: entity info_player_deathmatch 3 (11802 4166 -465) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 131.
+[Botrix] Warning: entity info_player_deathmatch 4 (9354 1534 -477) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 8.
+[Botrix] Warning: entity info_player_deathmatch 6 (11341 2297 -458) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 78.
+[Botrix] Warning: entity item_healthkit 5 (8562 1577 -436) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 3.
+[Botrix] Warning: entity item_healthkit 7 (11906 3872 -461) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 120.
+[Botrix] Warning: entity weapon_frag 3 (10328 2657 -255) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 277.
+[Botrix] Warning: entity weapon_frag 4 (10271 2654 -255) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 278.
+[Botrix] Warning: entity item_battery 8 (9104 3617 -478) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 165.
+[Botrix] Warning: entity item_ammo_smg1 9 (11896 3889 -462) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 131.
+[Botrix] Warning: entity weapon_frag 11 (10220 2655 -255) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 278.
+[Botrix] Warning: entity weapon_crossbow 12 (9563 513 -240) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 64.
+[Botrix] Warning: entity info_player_deathmatch 8 (10194 3048 -441) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 148.
+[Botrix] Warning: entity info_player_deathmatch 9 (8321 1580 -422) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 2.
+[Botrix] Warning: entity info_player_rebel 10 (9093 1549 -446) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 7.
+[Botrix] Warning: entity info_player_rebel 11 (8836 1552 -438) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 5.
+[Botrix] Warning: entity info_player_rebel 12 (8552 1536 -438) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 3.
+[Botrix] Warning: entity info_player_rebel 13 (8068 1536 -398) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 0.
+[Botrix] Warning: entity info_player_combine 15 (10236 3048 -441) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 148.
+[Botrix] Warning: entity info_player_combine 16 (10456 3068 -445) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 143.
+[Botrix] Warning: entity info_player_combine 17 (11072 3692 -445) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 133.
+[Botrix] Warning: entity info_player_combine 19 (11800 4121 -465) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 131.
+[Botrix] Warning: entity info_player_combine 20 (11132 3692 -445) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 133.
+[Botrix] Warning: entity item_battery 9 (10449 2684 -172) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 274.
+[Botrix] Warning: entity item_healthkit 12 (8561 1962 -165) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 211.
+[Botrix] Warning: entity item_battery 10 (7675 1952 -164) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 204.
+[Botrix] Warning: entity item_ammo_smg1_grenade 18 (9135 386 -160) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 62.
+[Botrix] Level "dm_runoff" has been loaded.
+[Botrix] User connected Average_Medal_Enjoyer (steam id [U:1:307219368]), access: waypoint bot config.
+[Botrix] User id validated Average_Medal_Enjoyer (steam id [U:1:307219368]), access: none.
+[Botrix] [config]
+[Botrix]   [admins]
+[Botrix]     [access]: set access flags for given admin
+[Botrix]       Parameters: <steam-id> <access-flags>. Can be none / all / mix of: waypoint bot config
+[Botrix]     [show]: show admins currently on server
+[Botrix]   [bot]
+[Botrix]     [intelligence]: set min/max bot intelligence
+[Botrix]       Parameters: <min> (max). Can be one of: random fool stupied normal smart pro
+[Botrix]     [protection]
+[Botrix]       [health]: when the player has at least protection health amount, bots won't attack him
+[Botrix]         Parameters: <off/health-amount>. Off or 0 to disable.
+[Botrix]       [spawn-time]: when the player has at least protection health amount, bots won't attack him
+[Botrix]         Parameters: <off/time-in-seconds>. Off or 0 to disable.
+[Botrix]     [quota]: set bots+players quota.
+[Botrix]       You can use 'n-m' to have m bots per n players. Set to 0 to disable quota.
+[Botrix]     [strategy]
+[Botrix]       [flags]: set bot fight strategy flags
+[Botrix]         Can be mix of: run-away-if-near come-closer-if-far
+[Botrix]       [set]: set bot fight strategy argument
+[Botrix]         Parameters: <near-distance/far-distance> <distance>.
+[Botrix]     [suicide]: when staying far from waypoints for this time (in seconds), suicide
+[Botrix]       Set to 0 to disable.
+[Botrix]     [team]: set default bot team
+[Botrix]       Can be one of: unassigned spectators combines rebels
+[Botrix]     [weapon]
+[Botrix]       [allow]: allow bots to use given weapons
+[Botrix]         Parameters: (on/off) (weapon(s)).
+[Botrix]       [default]: configurate bot weapons after respawn.
+[Botrix]         Parameters: <none/weapon(s)>
+[Botrix]       [remove]: remove all bot weapons on respawn.
+[Botrix]         Parameters: (on/off). You can use it in combination with 'default' command.
+[Botrix]       [unknown]: bot assumption about unknown weapons ('melee' or 'ranged')
+[Botrix]         If bot grabs or respawns with unknown weapon, choose it to be marked as melee or ranged
+[Botrix]   [event]: display events on console ('off' - disable, 'on' - enable)
+[Botrix]   [log]: set console log level (none, trace, debug, info, warning, error).
+[Botrix]   [waypoint]
+[Botrix]     [analyze]
+[Botrix]       [amount]: amount of waypoints to analyze per frame
+[Botrix]         Parameter: number of waypoints to analyze per frame. Can be fractional.
+[Botrix]       [distance]: default distance between waypoints when analyzing the map
+[Botrix]       [map-change]: force analyze waypoints on map change
+[Botrix]         Parameter: maximum number of waypoints to start analyze on map change. 'off' or -1 to disable.
+[Botrix]     [save]: auto save waypoints on map change
+[Botrix]       Parameter: (on / off). Warning: bots can modify map waypoint (botrix config waypoint unreachable).
+[Botrix]     [unreachable]: bots can erase paths between waypoints
+[Botrix]       Parameter: (off / number of failed tries). If a bot can't reach path's destination waypoint X times, that path will be deleted.
+[Botrix] Command not found.
+[Botrix] Waypoints visibility table loaded.
+[Botrix] 363 waypoints loaded for map dm_runoff.
+[Botrix] Warning: entity prop_door_rotating 1 (10739 1673 -202) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 324.
+[Botrix] Warning: entity func_door 2 (9666 1724 -192) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 282.
+[Botrix] Door 3 doesn't have 2 waypoints near.
+[Botrix] Warning: entity func_door 5 (11056 2003 -126) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 329.
+[Botrix] Warning: entity func_door 6 (11056 2033 -126) doesn't have waypoint close.
+[Botrix] Warning: entity func_door 7 (10912 2033 -126) doesn't have waypoint close.
+[Botrix] Door 7 doesn't have 2 waypoints near.
+[Botrix] Warning: entity info_player_deathmatch 3 (11802 4166 -465) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 131.
+[Botrix] Warning: entity info_player_deathmatch 4 (9354 1534 -477) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 8.
+[Botrix] Warning: entity info_player_deathmatch 6 (11341 2297 -458) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 78.
+[Botrix] Warning: entity item_healthkit 5 (8562 1577 -436) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 3.
+[Botrix] Warning: entity item_healthkit 7 (11906 3872 -461) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 120.
+[Botrix] Warning: entity weapon_frag 3 (10328 2657 -255) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 277.
+[Botrix] Warning: entity weapon_frag 4 (10271 2654 -255) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 278.
+[Botrix] Warning: entity item_battery 8 (9104 3617 -478) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 165.
+[Botrix] Warning: entity item_ammo_smg1 9 (11896 3889 -462) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 131.
+[Botrix] Warning: entity weapon_frag 11 (10220 2655 -255) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 278.
+[Botrix] Warning: entity weapon_crossbow 12 (9563 513 -240) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 64.
+[Botrix] Warning: entity info_player_deathmatch 8 (10194 3048 -441) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 148.
+[Botrix] Warning: entity info_player_deathmatch 9 (8321 1580 -422) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 2.
+[Botrix] Warning: entity info_player_rebel 10 (9093 1549 -446) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 7.
+[Botrix] Warning: entity info_player_rebel 11 (8836 1552 -438) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 5.
+[Botrix] Warning: entity info_player_rebel 12 (8552 1536 -438) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 3.
+[Botrix] Warning: entity info_player_rebel 13 (8068 1536 -398) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 0.
+[Botrix] Warning: entity info_player_combine 15 (10236 3048 -441) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 148.
+[Botrix] Warning: entity info_player_combine 16 (10456 3068 -445) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 143.
+[Botrix] Warning: entity info_player_combine 17 (11072 3692 -445) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 133.
+[Botrix] Warning: entity info_player_combine 19 (11800 4121 -465) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 131.
+[Botrix] Warning: entity info_player_combine 20 (11132 3692 -445) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 133.
+[Botrix] Warning: entity item_battery 9 (10449 2684 -172) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 274.
+[Botrix] Warning: entity item_healthkit 12 (8561 1962 -165) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 211.
+[Botrix] Warning: entity item_battery 10 (7675 1952 -164) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 204.
+[Botrix] Warning: entity item_ammo_smg1_grenade 18 (9135 386 -160) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 62.
+[Botrix] Level "dm_runoff" has been loaded.
+[Botrix] User connected Average_Medal_Enjoyer (steam id [U:1:307219368]), access: waypoint bot config.
+[Botrix] User id validated Average_Medal_Enjoyer (steam id [U:1:307219368]), access: none.
+[Botrix] Betty (smart) -> Using model models/humans/group03/female_07.mdl
+[Botrix] Bot added: Betty (smart).
+[Botrix] Helen (smart) -> Using model models/humans/group03/male_09.mdl
+[Botrix] Bot added: Helen (smart).
+[Botrix] Helen (stupied) -> Using model models/combine_soldier_prisonguard.mdl
+[Botrix] Bot added: Helen (stupied).
+[Botrix] James (smart) -> Using model models/humans/group03/female_06.mdl
+[Botrix] Bot added: James (smart).
+[Botrix] Bart (fool) -> Using model models/combine_soldier_prisonguard.mdl
+[Botrix] Bot added: Bart (fool).
+[Botrix] Helen (fool) -> Using model models/police.mdl
+[Botrix] Bot added: Helen (fool).
+[Botrix] John (pro) -> Using model models/combine_soldier_prisonguard.mdl
+[Botrix] Bot added: John (pro).
+[Botrix] Steven (fool) -> Using model models/combine_super_soldier.mdl
+[Botrix] Bot added: Steven (fool).
+[Botrix] Kevin (fool) -> Using model models/humans/group03/male_01.mdl
+[Botrix] Bot added: Kevin (fool).
+[Botrix] Bart (smart) -> Using model models/humans/group03/female_02.mdl
+[Botrix] Bot added: Bart (smart).
+[Botrix] Robert (fool) -> Using model models/combine_soldier.mdl
+[Botrix] Bot added: Robert (fool).
+[Botrix] Lisa (normal) -> Using model models/humans/group03/male_04.mdl
+[Botrix] Bot added: Lisa (normal).
+[Botrix] Barbara (pro) -> Using model models/combine_soldier_prisonguard.mdl
+[Botrix] Bot added: Barbara (pro).
+[Botrix] Daniel (stupied) -> Using model models/police.mdl
+[Botrix] Bot added: Daniel (stupied).
+[Botrix] Daniel (fool) -> Using model models/combine_soldier_prisonguard.mdl
+[Botrix] Bot added: Daniel (fool).
+[Botrix] Betty (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Helen (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] James (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Bart (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Helen (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] John (pro) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Steven (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Bart (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Robert (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Lisa (normal) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Barbara (pro) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Daniel (stupied) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Daniel (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Removing unreachable path from 257 to 258.
+[Botrix] Removing unreachable path from 258 to 84.
+[Botrix] Helen (stupied) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Removing unreachable path from 336 to 338.
+[Botrix] Removing unreachable path from 258 to 257.
+[Botrix] Removing unreachable path from 257 to 256.
+[Botrix] Betty (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Kevin (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Removing unreachable path from 257 to 259.
+[Botrix] Removing unreachable path from 1 to 0.
+[Botrix] John (pro) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Lisa (normal) -> Current weapon is weapon_smg1, should be weapon_crossbow.
+[Botrix] Removing unreachable path from 136 to 134.
+[Botrix] Removing unreachable path from 136 to 138.
+[Botrix] Error, invalid parameters, 'current' or 'destination' waypoints.
+[Botrix] Command error.
+[Botrix] Removing unreachable path from 305 to 320.
+[Botrix] Removing unreachable path from 136 to 137.
+[Botrix] Betty (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Removing unreachable path from 336 to 337.
+[Botrix] Removing unreachable path from 147 to 146.
+[Botrix] Daniel (fool) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Removing unreachable path from 136 to 144.
+[Botrix] Removing unreachable path from 143 to 148.
+[Botrix] Bart (smart) -> Current weapon is weapon_pistol, should be weapon_smg1.
+[Botrix] Removing unreachable path from 136 to 145.
+[Botrix] Helen (smart) -> Invalid current waypoint 148 (should be 143).
+[Botrix] Removing unreachable path from 258 to 140.
+[Botrix] Helen (smart) -> Invalid current waypoint 148 (should be 143).
+[Botrix] Helen (smart) -> Invalid current waypoint 148 (should be 143).
+[Botrix] Removing unreachable path from 243 to 238.
+[Botrix] Waypoints visibility table loaded.
+[Botrix] 238 waypoints loaded for map halls3.
+[Botrix] Warning: entity weapon_frag 3 (-1079 84 334) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 98.
+[Botrix] Warning: entity weapon_frag 4 (-1065 92 332) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 98.
+[Botrix] Warning: entity weapon_frag 5 (-1124 580 27) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 214.
+[Botrix] Warning: entity weapon_frag 6 (-1110 588 33) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 214.
+[Botrix] Warning: entity info_player_deathmatch 10 (-875 -1069 33) doesn't have waypoint close.
+[Botrix]   Nearest waypoint 175.
+[Botrix] Level "halls3" has been loaded.
+[Botrix] User connected Average_Medal_Enjoyer (steam id [U:1:307219368]), access: waypoint bot config.
+[Botrix] User id validated Average_Medal_Enjoyer (steam id [U:1:307219368]), access: none.
+[Botrix] User connected Bot01 (steam id BOT), access: none.

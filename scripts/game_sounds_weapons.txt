@@ -1165,6 +1165,20 @@
 	"wave"		")weapons/shotgun/shotgun_cock.wav"
 }
 
+// CALDWELL PAX
+"Weapon_Caldwell.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/caldwellpax/caldwellpax_fire_single_1.wav"
+	}
+}
+
 // weapon_357
 "Weapon_357.Single"
 {
