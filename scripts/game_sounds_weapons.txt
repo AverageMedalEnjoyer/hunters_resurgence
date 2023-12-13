@@ -1179,6 +1179,89 @@
 	}
 }
 
+// REVOLVER SOUNDS
+"Weapon_Revolver.Cock"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/shared/revolver/peacemaker_cock.wav"
+		"wave"			")weapons/shared/revolver/peacemaker_cock_fast1.wav"
+		"wave"			")weapons/shared/revolver/peacemaker_cock_fast2.wav"
+	}
+}
+
+"Weapon_Revolver.Open"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/shared/revolver/peacemaker_open.wav"
+	}
+}
+
+"Weapon_Revolver.Close"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/shared/revolver/peacemaker_close.wav"
+	}
+}
+
+"Weapon_Revolver.Insert"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/shared/revolver/peacemaker_insert1.wav"
+		"wave"			")weapons/shared/revolver/peacemaker_insert2.wav"
+		"wave"			")weapons/shared/revolver/peacemaker_insert3.wav"
+	}
+}
+
+"Weapon_Revolver.Spin"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/shared/revolver/peacemaker_spin.wav"
+	}
+}
+
+"Weapon_Revolver.Draw"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"0.8"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/shared/revolver/peacemaker_draw.wav"
+	}
+}
+
 // weapon_357
 "Weapon_357.Single"
 {

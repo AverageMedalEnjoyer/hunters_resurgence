@@ -20,6 +20,15 @@ WeaponData
 
 	"damage"		"45"
 
+
+	IronSight
+	{
+		"forward"	"-10"
+		"right"		"-4.90"
+		"up"		"3.30"
+		"roll"		"0"
+		"fov"		"-20"
+	}
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
