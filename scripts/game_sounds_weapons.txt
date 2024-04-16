@@ -1165,6 +1165,21 @@
 	"wave"		")weapons/shotgun/shotgun_cock.wav"
 }
 
+
+// CALDWELL RIVAL
+"Weapon_CaldwellRival.Single"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"1.0"
+	"soundlevel"		"SNDLVL_GUNFIRE"
+	"pitch"			"98,102"
+
+	"rndwave"
+	{
+		"wave"			")weapons/caldwellrival/caldwellrival_fire_single_1.wav"
+	}
+}
+
 // CALDWELL PAX
 "Weapon_Caldwell.Single"
 {
